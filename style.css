@@ -12,11 +12,22 @@ body {
 
 .fantasy {
   font-family:fantasy;
+  
+}
+
+.italics {
+  font-style:italic;
+}
+
+.green {
+  color:green;
 }
 
 .green-courier {
   font-family:'Courier New', Courier, monospace;
   color:green;
+
+  font-style: bold;
 }
 
 .center {
@@ -35,3 +46,14 @@ h1 {
   color: hotpink;
 }
 
+.size-25 {
+  font-size:25px;
+}
+
+.size-percent {
+  font-size:500%;
+}
+
+.orange {
+  color:orange;
+}
